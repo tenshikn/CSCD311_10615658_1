@@ -1,0 +1,15 @@
+body {
+	background: grey;
+	background-image: url("nuggets.png");
+	background-size: fill;
+}
+.container{
+	width:50%;
+	margin:10px auto 10px auto;
+}
+a{
+	font-size: 32px;
+}
+
+
+
